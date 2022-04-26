@@ -38,13 +38,13 @@ General technical information about your device:
 The device type and language, operating system name and version.
 The device’s time zone.
 The amount of free memory on the device.
-The name and version of the Title.
+The name and version of the Game.
 The battery status.
 The device’s limit ad tracking status.
 The name of the manufacturer of the device.
 The name of the mobile carrier.
 The device’s internet connection type (e.g., Wi-Fi).
-Your activity in connection with the Title: Transactions and in-app purchases made in the Title, your progress or movement in the Title, and in-game events.
+Your activity in connection with the Game: Transactions and in-app purchases made in the Game, your progress or movement in the Game, and in-game events.
 Information received from advertising and analytics partners
 
 – The total amount of revenues received as a result of advertising served to a specific device ID.
@@ -53,7 +53,7 @@ How We Use the Information We Collect:
 We use the information we collect mainly to provide you with the Services you request from us. In addition, we use the information for the following purposes:
 
 to improve and optimize the Game and our players’ experiences;
-to communicate with you about the Game you’re using, including in-game updates, new Titles, and promotional offers that we think might be of interest to you;
+to communicate with you about the Game you’re using, including in-game updates, new Game, and promotional offers that we think might be of interest to you;
 to provide technical support and respond to player inquiries;
 to protect the safety and well-being of our players;
 to protect our rights and property in connection with the Game;
